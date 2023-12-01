@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-gc6p1c4s$vrylnzf24d=ggg-2d#_rj=tzx$rqnb7w02h$7qn6i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["visualizationdashboardserver-production.up.railway.app"]
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
